@@ -7,16 +7,13 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. 
 Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 
-Project Tasks
-1. Meet Dr. Ignaz Semmelweis
-2. The alarming number of deaths
-3. Death at the clinics
-4. The handwashing begins
-5. The effect of handwashing
-6. The effect of handwashing highlighted
-7. More handwashing, fewer deaths?
-8. A Bootstrap analysis of Semmelweis handwashing data
-9. The fate of Dr. Semmelweis
+#Data Manipulation
+#Data Visualization
+#Probability & Statistics
+#Importing & Cleaning Data
+#Data Manipulation
+#Data Visualization
+#Case Studies
 
 ## Predicting Credit Card Approvals
 Build a machine learning model to predict if a credit card application will get approved.
@@ -26,16 +23,29 @@ Manually analyzing these applications is mundane, error-prone, and time-consumin
 
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository at http://archive.ics.uci.edu/ml/datasets/credit+approval
 
-Project Tasks
-1. Credit card applications
-2. Inspecting the applications
-3. Handling the missing values (part i)
-4. Handling the missing values (part ii)
-5. Handling the missing values (part iii)
-6. Preprocessing the data (part i)
-7. Splitting the dataset into train and test sets
-8. Preprocessing the data (part ii)
-9. Fitting a logistic regression model to the train set
-10. Making predictions and evaluating performance
-11. Grid searching and making the model perform better
-12. Finding the best performing model
+#Data Manipulation
+#Machine Learning
+#Importing & Cleaning Data
+#Applied Finance
+
+## Modeling the Volatility of US Bond Yields
+Discover how the US bond yields behave using descriptive statistics and advanced modeling.
+#### Project Description
+In this project, we will explore the volatility structure of US Government Bond Yields. Essentially all financial assets exhibit a phenomenon called volatility clustering where low and high volatility regimes follow each other. The alternating volatility regimes are a focus for risk management and investment decisions. We will use the well-known GARCH (Generalized AutoRegressive Conditional Heteroskedasticity) method to explore the statistical properties of financial time series data.
+
+This project assumes background knowledge on time series analysis, GARCH modeling, plotting and uses packages xts and rugarch.
+
+The historical yield data are published by the US Federal Reserve Data Releases and imported from Quandl, https://www.quandl.com/data/FED/SVENY,
+
+#Data Visualization
+#Applied Finance
+
+## Risk and Returns: The Sharpe Ratio
+Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
+#### Project Description
+When you assess whether to invest in an asset, you want to look not only at how much money you could make but also at how much risk you are taking. The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago, does precisely this: it compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns.
+
+In this project, you will apply the Sharpe ratio to real financial data using pandas.
+
+#Applied Finance
+#Case Studies
