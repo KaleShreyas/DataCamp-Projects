@@ -15,6 +15,15 @@ Contaminated hands was a major cause of childbed fever and by enforcing handwash
 #Data Visualization
 #Case Studies
 
+## Exploring the Bitcoin Cryptocurrency Market
+You will explore the market capitalization of Bitcoin and other cryptocurrencies.
+#### Project Description
+To better understand the growth and impact of Bitcoin and other cryptocurrencies you will, in this project, explore the market capitalization of different cryptocurrencies.
+
+#Data Manipulation
+#Data Visualization
+#Importing & Cleaning Data
+
 ## Predicting Credit Card Approvals
 Build a machine learning model to predict if a credit card application will get approved.
 #### Project Description
